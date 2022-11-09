@@ -1,17 +1,17 @@
 # Pre-Placement-Module-2023
 
-- Name: Rohit Kumar Chaudhary
-- University Roll No.: 1900290400104
+- Name: Rohan Kumar
+- University Roll No.: 1900290400103
 - Branch: ME
 - Section: C
 - Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/rohitkumarchaudhary/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/rohit_1923me1099)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/rohankumar/)
+- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/rohan_1923me1031)
 
 ## Placement Module
-1. [DS I](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I)
+1. [DS I](https://github.com/Rohan-Kumar/Pre-Placement-Module-2023/tree/main/DS%20I)
     | Weeks | Days | Days | Days | Days | Days | Days | Days |
     | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
     | Week 2 | [Day 1](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%201) | [Day 2](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%202) | [Day 3](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%203) | [Day 4](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%204) | [Day 5](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%205) | [Day 6](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%206) | [Day 7](https://github.com/Rohit-Kumar-Chaudhary/Pre-Placement-Module-2023/tree/main/DS%20I/Day%207) |
